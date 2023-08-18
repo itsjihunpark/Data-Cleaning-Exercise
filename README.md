@@ -6,7 +6,7 @@ Summary:
 
 
 Although, this cleaning process was for a very small dataset-
-These methods of cleaning can also be applied for a much larger 
+these methods of cleaning can also be applied for a much larger 
 data set.
 
 However, its worth noting that when working with a very large dataset,
